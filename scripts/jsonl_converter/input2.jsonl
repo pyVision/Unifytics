@@ -1,0 +1,10 @@
+{"event":"Page View","properties":{"time":1709544000,"distinct_id":"user123","$browser":"Chrome","$os":"macOS","$current_url":"/home","path":"/home"}}
+{"event":"Button Click","properties":{"time":1709544060,"distinct_id":"user123","$browser":"Chrome","$os":"macOS","button_id":"signup-btn","button_text":"Sign Up"}}
+{"event":"Sign Up","properties":{"time":1709544120,"distinct_id":"user123","$browser":"Chrome","$os":"macOS","signup_method":"email","plan_type":"free"}}
+{"event":"Product View","properties":{"time":1709544180,"distinct_id":"user456","$browser":"Firefox","$os":"Windows","product_id":"prod789","category":"electronics"}}
+{"event":"Add to Cart","properties":{"time":1709544240,"distinct_id":"user456","$browser":"Firefox","$os":"Windows","product_id":"prod789","price":299.99,"currency":"USD"}}
+{"event":"Checkout Started","properties":{"time":1709544300,"distinct_id":"user456","$browser":"Firefox","$os":"Windows","cart_value":299.99,"items_count":1}}
+{"event":"Search","properties":{"time":1709544360,"distinct_id":"user789","$browser":"Safari","$os":"iOS","search_term":"wireless headphones","results_count":15}}
+{"event":"Video Play","properties":{"time":1709544420,"distinct_id":"user789","$browser":"Safari","$os":"iOS","video_id":"vid123","category":"tutorial","duration":300}}
+{"event":"Feature Usage","properties":{"time":1709544480,"distinct_id":"user101","$browser":"Edge","$os":"Windows","feature_name":"dark_mode","action":"enabled"}}
+{"event":"Purchase Complete","properties":{"time":1709544540,"distinct_id":"user456","$browser":"Firefox","$os":"Windows","transaction_id":"tx789","total_amount":299.99,"payment_method":"credit_card"}}
